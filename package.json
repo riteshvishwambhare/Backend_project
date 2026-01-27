@@ -1,0 +1,15 @@
+{
+  "name": "chai-or-backend-node",
+  "version": "1.0.0",
+  "description": "major project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "Backend"
+  ],
+  "author": "Ritesh Vishwambhare",
+  "license": "ISC"
+}
